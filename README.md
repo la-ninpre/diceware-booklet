@@ -3,6 +3,8 @@
 For some reason I've decided to create a booklet with all diceware wordlist for
 myself.
 
+![printed booklet](img/printed.jpg)
+
 Diceware is a method for choosing good and secure passwords.
 Since people are bad at choosing random things, this method was created.
 You simply just throw a die five times, write down the values and then check the
