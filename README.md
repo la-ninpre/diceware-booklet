@@ -21,10 +21,10 @@ distinctive.
 
 I know that hard-coding(?) page layout is a bad thing to do and I know that there
 is probably some specialized software to do this brochure page order, but I have
-not found anything more or less useful. Source was made using LibreOffice Draw.
+not found anything useful. Source was made using LibreOffice Draw.
 
 To make a booklet you have to print firstly odd pages, then turn the sheets and
-print the even ones. Of cource, if your printer is capable of printing on both
+print the even ones. Of course, if your printer is capable of printing on both
 sides you're good.
 Then you should cut the page in a half horizontally, fold the lower part behind
 the upper, turning it upside down and, finally, binding everything in a desired
